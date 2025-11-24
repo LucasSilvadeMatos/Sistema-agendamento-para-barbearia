@@ -1,6 +1,5 @@
 // =========================================================================
 // 1. MODELAGEM DE DADOS (Simulação de Banco de Dados com LocalStorage)
-//    *** Imagens removidas e substituídas por dados simples ***
 // =========================================================================
 
 const BARBERS = [
